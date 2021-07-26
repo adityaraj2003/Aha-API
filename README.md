@@ -19,8 +19,6 @@
 ♢ Copy URL and Just Paste After Your link</h4>
 
 ```py
-   http://streamavi.ml/aha/api.php?c=AHA_URL
-   
    http://localhost/?c=AHA_URL
 ```
 
