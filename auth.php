@@ -38,8 +38,9 @@ curl_setopt_array($curl, array(
 $result = curl_exec($curl);
 curl_close($curl);
 
-  header("X-UA-Compatible: IE=edge");
-  header("Content-Type: application/json");
-echo $result;
+$hcauth =json_decode($result, true);
+$auth = $hcauth['authorizationToken'];
+
+echo $auth;
 
 ?>
