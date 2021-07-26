@@ -12,7 +12,7 @@
 
 - *Put Your Aha Account Details In Auth.php*
 
-<h3>🔐 How To Use :</h3>
+<h3>🔐 Method :</h3>
 
 <h4>
 ♢ Go To <a href="https://www.aha.video">Aha Site</a> <br><br>
